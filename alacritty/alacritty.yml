@@ -1,0 +1,12 @@
+import:
+  - ~/.config/alacritty/dracula.yml
+
+window:
+  padding:
+    x: 18
+    y: 18
+
+font:
+  normal:
+    family: MesloLGS NF
+    style: Regular
